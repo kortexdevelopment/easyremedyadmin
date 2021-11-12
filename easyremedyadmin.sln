@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "easyremedyadmin", "easyremedyadmin\easyremedyadmin.csproj", "{87734C05-C131-4EEE-9EFA-16DDCCCC9566}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87734C05-C131-4EEE-9EFA-16DDCCCC9566}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87734C05-C131-4EEE-9EFA-16DDCCCC9566}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87734C05-C131-4EEE-9EFA-16DDCCCC9566}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87734C05-C131-4EEE-9EFA-16DDCCCC9566}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF6AF572-67B1-4FB7-AE32-0A4B161F046F}
+	EndGlobalSection
+EndGlobal
